@@ -1,6 +1,6 @@
 <?php
 
 	const DB_SERVER="localhost";
-	const DB_NAME="transfor_bitacoras";
-	const DB_USER="transfor_leo";
-	const DB_PASS='EA{@[fXq-xkO';
+	const DB_NAME="ventas";
+	const DB_USER="root";
+	const DB_PASS='';
